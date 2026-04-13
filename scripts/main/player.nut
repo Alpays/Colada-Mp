@@ -105,7 +105,7 @@ playerData <- array ( GetMaxPlayers(), null );
 
 function onPlayerJoin(player) {
     Message(COLOR_GREEN + player.Name + COLOR_WHITE + " has joined the game.");
-    MessagePlayer(COLOR_GREEN + "Welcome to Vice City Kids Playground, " + player.Name + "!", player);
+    MessagePlayer(COLOR_GREEN + "Welcome to Colada Freeroam, " + player.Name + "!", player);
     playerData[player.ID] = Player();
     accounts.onPlayerJoin(player);
     bans.onPlayerJoin(player);
