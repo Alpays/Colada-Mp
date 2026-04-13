@@ -1,0 +1,61 @@
+/*
+
+File: downtown.map
+
+Description: Downtown extended.
+
+*/
+
+function onScriptLoad()
+{
+    CreateObject( 525, 1, Vector( -778.383, 774.091, 12.7149), 255 ).RotateByEuler( Vector( 2.50641, 2.5258, -1.47809), 0);
+    CreateObject( 1335, 1, Vector( -809.145, 681.408, 15.1509), 255 ).RotateByEuler( Vector( 0.0383206, -0.0432235, 1.08962), 0);
+    CreateObject( 6007, 1, Vector( -882.851, 766.829, 20.6134), 255 ).RotateByEuler( Vector( 0, 0, 0), 0);
+    CreateObject( 1722, 1, Vector( -902.372, 792.052, 11.0846), 255 ).RotateByEuler( Vector( 3.14159, 3.14159, 0.0915927), 0);
+    CreateObject( 1723, 1, Vector( -903.103, 792.108, 11.0686), 255 ).RotateByEuler( Vector( -3.13685, -3.11236, 0.0816616), 0);
+    CreateObject( 2118, 1, Vector( -824.236, 770.822, 10.9149), 255 ).RotateByEuler( Vector( 3.14159, 3.14159, -1.04159), 0);
+    CreateObject( 2312, 1, Vector( -778.27, 770.49, 11.6346), 255 ).RotateByEuler( Vector( 3.14159, 3.14159, 0.0215925), 0);
+    CreateObject( 2314, 1, Vector( -902.253, 856.388, 14.1149), 255 ).RotateByEuler( Vector( 0, 0, 0), 0);
+    CreateObject( 2316, 1, Vector( -893.911, 834.023, 11.13), 255 ).RotateByEuler( Vector( 0, 0, 0), 0);
+    CreateObject( 2431, 1, Vector( -891.009, 821.028, 10.4746), 255 ).RotateByEuler( Vector( 0, 0, 1.3), 0);
+    CreateObject( 2430, 1, Vector( -907.502, 823.826, 10.9875), 255 ).RotateByEuler( Vector( 0, 0, 1.08), 0);
+    CreateObject( 2309, 1, Vector( -890.367, 817.316, 10.9149), 255 ).RotateByEuler( Vector( 0, 0, 1.3), 0);
+    CreateObject( 2558, 1, Vector( -921.049, 779.248, 14.9846), 255 ).RotateByEuler( Vector( 0, 0, 0), 0);
+    CreateObject( 2577, 1, Vector( -909.337, 772.88, 11.0846), 255 ).RotateByEuler( Vector( 0, 0, 0), 0);
+    CreateObject( 510, 1, Vector( -916.684, 762.798, 10.0846), 255 ).RotateByEuler( Vector( 3.72529e-09, 0, 0), 0);
+    CreateObject( 2567, 1, Vector( -915.163, 770.952, 10.2846), 255 ).RotateByEuler( Vector( 0, 0, 0), 0);
+    CreateObject( 592, 1, Vector( -916.555, 717.17, 10.2346), 255 ).RotateByEuler( Vector( 0, 0, 0), 0);
+    CreateObject( 593, 1, Vector( -918.526, 715.952, 10.0846), 255 ).RotateByEuler( Vector( 0, 0, 0), 0);
+    CreateObject( 596, 1, Vector( -916.828, 714.647, 10.1346), 255 ).RotateByEuler( Vector( 0.0963788, 1.30129, -0.0267085), 0);
+    CreateObject( 501, 1, Vector( -906.446, 779.198, 10.0346), 255 ).RotateByEuler( Vector( 3.72529e-09, 0, 0), 0);
+    CreateObject( 471, 1, Vector( -919.639, 752.267, 10.5346), 255 ).RotateByEuler( Vector( 0, 0, 0), 0);
+    CreateObject( 398, 1, Vector( -906.279, 778.301, 10.4346), 255 ).RotateByEuler( Vector( 0, 0, 0), 0);
+    CreateObject( 399, 1, Vector( -907.216, 779.282, 10.4846), 255 ).RotateByEuler( Vector( 0, 0, 0), 0);
+    CreateObject( 279, 1, Vector( -855.448, 854.346, 11.3846), 255 ).RotateByEuler( Vector( -0.279813, 2.03824, 0.231117), 0);
+    CreateObject( 414, 1, Vector( -885.035, 856.124, 10.5222), 255 ).RotateByEuler( Vector( -3.14159, -3.14159, -0.00840755), 0);
+    CreateObject( 470, 1, Vector( -848.944, 802.068, 11.3846), 255 ).RotateByEuler( Vector( 0, 0, 0), 0);
+    CreateObject( 470, 1, Vector( -858.967, 801.947, 11.3346), 255 ).RotateByEuler( Vector( 0, 0, 0), 0);
+    CreateObject( 470, 1, Vector( -858.967, 796.298, 11.3346), 255 ).RotateByEuler( Vector( 0, 0, 0), 0);
+    CreateObject( 470, 1, Vector( -849.217, 796.298, 11.3346), 255 ).RotateByEuler( Vector( 0, 0, 0), 0);
+    CreateObject( 470, 1, Vector( -849.217, 787.998, 11.3346), 255 ).RotateByEuler( Vector( 0, 0, 0), 0);
+    CreateObject( 470, 1, Vector( -859.417, 787.998, 11.3346), 255 ).RotateByEuler( Vector( 0, 0, 0), 0);
+    CreateObject( 414, 1, Vector( -847.914, 777.849, 10.4846), 255 ).RotateByEuler( Vector( 0, 0, 1.55001), 0);
+    CreateObject( 414, 1, Vector( -852.614, 777.849, 10.4846), 255 ).RotateByEuler( Vector( 0, 0, 1.55), 0);
+    CreateObject( 522, 1, Vector( -859.415, 787.982, 10.5146), 255 ).RotateByEuler( Vector( 0, 0, 0), 0);
+    CreateObject( 522, 1, Vector( -858.965, 796.393, 10.5146), 255 ).RotateByEuler( Vector( 0, 0, 0), 0);
+    CreateObject( 522, 1, Vector( -858.965, 802.004, 10.5146), 255 ).RotateByEuler( Vector( 0, 0, 0), 0);
+    CreateObject( 522, 1, Vector( -848.935, 802.154, 10.5146), 255 ).RotateByEuler( Vector( 0, 0, 0), 0);
+    CreateObject( 522, 1, Vector( -849.187, 796.376, 10.5046), 255 ).RotateByEuler( Vector( 0, 0, 0), 0);
+    CreateObject( 522, 1, Vector( -849.117, 788.106, 10.5046), 255 ).RotateByEuler( Vector( 0, 0, 0), 0);
+    CreateObject( 3436, 1, Vector( -835.346, 782.985, 15.9646), 255 ).RotateByEuler( Vector( 0, 0, 0), 0);
+    CreateObject( 3436, 1, Vector( -835.396, 800.435, 15.9646), 255 ).RotateByEuler( Vector( 0, 0, 0), 0);
+    CreateObject( 336, 1, Vector( -837.402, 766.01, 10.6646), 255 ).RotateByEuler( Vector( 0, 0, 0), 0);
+    CreateObject( 341, 1, Vector( -550.546, 679.719, 10.7829), 255 ).RotateByEuler( Vector( 0, 0, 0.21), 0);
+    CreateObject( 386, 1, Vector( -828.863, 765.679, 10.8346), 255 ).RotateByEuler( Vector( 0, 0, 1.5), 0);
+    CreateObject( 386, 1, Vector( -816.613, 765.079, 10.8346), 255 ).RotateByEuler( Vector( 0, 0, 1.52), 0);
+    CreateObject( 551, 1, Vector( -780.143, 745.087, 17.4346), 255 ).RotateByEuler( Vector( -3.02741, -3.03232, -1.48117), 0);
+    CreateObject( 362, 1, Vector( -757.947, 766.813, 10.6846), 255 ).RotateByEuler( Vector( 0, 0, 0), 0);
+    CreateObject( 4632, 1, Vector( -859.64, 848.521, 11.1846), 255 ).RotateByEuler( Vector( 0, 0, 0), 0);
+    CreateObject( 4633, 1, Vector( -878.579, 769.073, 11.0846), 255 ).RotateByEuler( Vector( 0, 0, 0.2), 0);
+    CreateObject( 500, 1, Vector( -873.491, 752.049, 9.88462), 255 ).RotateByEuler( Vector( -3.14159, -3.14159, -0.0384076), 0);
+}

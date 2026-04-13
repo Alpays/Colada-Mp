@@ -1,0 +1,5 @@
+function onScriptLoad()
+{
+    HideMapObject(1259,-880.552, -575.726, 11.3371);
+    CreateObject(1259, 0, Vector(-879.757, -576.008, 11.3371), 255).RotateTo( Quaternion(0, 0, 0.5, -0.866025), 0 );
+}

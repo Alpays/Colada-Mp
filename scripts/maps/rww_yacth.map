@@ -1,0 +1,18 @@
+/*
+
+File: rww_yacth.map
+
+Description: Adds Cortez yacth from singleplayer/0.3z R2 (By: [LCK]rww)
+
+*/
+
+function onScriptLoad()
+{
+    CreateObject(2587, 0, Vector(-375.49, -1322.31, 9.8), 255);
+    CreateObject(2590, 0, Vector(-375.49, -1322.31, 9.8), 255);
+    CreateObject(2586, 0, Vector(-375.49, -1322.31, 9.8), 255);
+    CreateObject(2588, 0, Vector(-375.49, -1322.31, 9.8), 255);
+    CreateObject(2592, 0, Vector(-375.49, -1322.31, 9.8), 255);
+    CreateObject(2585, 0, Vector(-375.49, -1322.31, 9.8), 255);
+    CreateObject(2593, 0, Vector(-375.49, -1322.31, 9.8), 255);
+}

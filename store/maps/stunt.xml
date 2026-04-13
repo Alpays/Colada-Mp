@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ASCII" ?> 
+	<itemlist> 
+		<item model="560" name="0"> 
+			<position x="-666.095" y="623.837" z="11.1523" /> 
+			<rotation format="axisangle" x="-2.67678e-09" y="-5.24684e-09" z="-0.149438" angle="-0.988771" /> 
+		</item> 
+		<item model="562" name="1"> 
+			<position x="-598.436" y="727.51" z="20.699" /> 
+			<rotation format="axisangle" x="0" y="0" z="0" angle="-1" /> 
+		</item> 
+		<item model="934" name="2"> 
+			<position x="-1291.98" y="-731.005" z="17.3177" /> 
+			<rotation format="axisangle" x="1.86265e-09" y="2.79397e-09" z="-0.174108" angle="-0.984727" /> 
+		</item> 
+		<item model="871" name="3"> 
+			<position x="261.716" y="335.491" z="11.9647" /> 
+			<rotation format="axisangle" x="0" y="0" z="0" angle="-1" /> 
+		</item> 
+		<item model="871" name="4"> 
+			<position x="-1062.99" y="-1438.02" z="11.717" /> 
+			<rotation format="axisangle" x="0" y="0" z="0.543835" angle="-0.839192" /> 
+		</item> 
+	</itemlist> 

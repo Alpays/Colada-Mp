@@ -1,0 +1,12 @@
+/*
+
+File: remove_gate.map
+
+Description: Removes gate to the Cortez yacth
+
+*/
+
+function onScriptLoad()
+{
+    HideMapObject( 2942, -249.227, -1360.77, 6.78142 );
+}

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="ASCII"?>
+	<objectlist>
+		<object id="0">
+			<flags value="0" />
+			<texture path="dummy.txd" />
+			<collision type="none" />
+			<model path="dummy.dff" distance="0" />
+			<effect>
+				<position x="0" y="0" z="-0.6"/>
+				<colour r="255" g="255" b="255" a="255"/>
+				<type>1</type>
+				<particle>
+					<type>0</type>
+					<strength x="0" y="0" z="0"/>
+					<scale>1</scale>
+				</particle>
+			</effect>
+		</object>
+		<object id="1">
+			<flags value="0" />
+			<texture path="dummy.txd" />
+			<collision type="none" />
+			<model path="dummy.dff" distance="0" />
+			<effect>
+				<position x="0" y="0" z="-0.6"/>
+				<colour r="255" g="255" b="255" a="255"/>
+				<type>1</type>
+				<particle>
+					<type>1</type>
+					<strength x="0" y="0" z="0"/>
+					<scale>1</scale>
+				</particle>
+			</effect>
+		</object>
+		<object id="2">
+			<flags value="0" />
+			<texture path="dummy.txd" />
+			<collision type="none" />
+			<model path="dummy.dff" distance="0" />
+			<effect>
+				<position x="0" y="0" z="-0.15"/>
+				<colour r="255" g="255" b="255" a="255"/>
+				<type>1</type>
+				<particle>
+					<type>2</type>
+					<strength x="0" y="0" z="0"/>
+					<scale>1</scale>
+				</particle>
+			</effect>
+		</object>
+		<object id="3">
+			<flags value="0" />
+			<texture path="dummy.txd" />
+			<collision type="none" />
+			<model path="dummy.dff" distance="0" />
+			<effect>
+				<position x="0" y="0" z="-0.5"/>
+				<colour r="255" g="255" b="255" a="255"/>
+				<type>1</type>
+				<particle>
+					<type>3</type>
+					<strength x="0" y="0" z="0"/>
+					<scale>1</scale>
+				</particle>
+			</effect>
+		</object>
+		<object id="4">
+			<flags value="0" />
+			<texture path="dummy.txd" />
+			<collision type="none" />
+			<model path="dummy.dff" distance="0" />
+			<effect>
+				<position x="0" y="0" z="-0.6"/>
+				<colour r="255" g="255" b="255" a="255"/>
+				<type>1</type>
+				<particle>
+					<type>4</type>
+					<strength x="0" y="0" z="0"/>
+					<scale>1</scale>
+				</particle>
+			</effect>
+		</object>
+		<object id="5">
+			<flags value="0" />
+			<texture path="dummy.txd" />
+			<collision type="none" />
+			<model path="dummy.dff" distance="0" />
+			<effect>
+				<position x="0" y="0" z="-13"/>
+				<colour r="255" g="255" b="255" a="255"/>
+				<type>1</type>
+				<particle>
+					<type>5</type>
+					<strength x="0" y="0" z="0"/>
+					<scale>1</scale>
+				</particle>
+			</effect>
+		</object>
+		<object id="6">
+			<flags value="0" />
+			<texture path="dummy.txd" />
+			<collision type="none" />
+			<model path="dummy.dff" distance="0" />
+			<effect>
+				<position x="0" y="0" z="-2.5"/>
+				<colour r="255" g="255" b="255" a="255"/>
+				<type>1</type>
+				<particle>
+					<type>6</type>
+					<strength x="0" y="0" z="0"/>
+					<scale>1</scale>
+				</particle>
+			</effect>
+		</object>
+		<object id="7">
+			<model path="novoodoo.dff" distance="300" />
+			<texture path="novoodoo.txd" />
+			<collision type="none" />
+			<flags value="0" />
+		</object>
+	</objectlist>
